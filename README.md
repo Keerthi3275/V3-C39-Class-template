@@ -1,1 +1,2 @@
-# V3-C39-Class-template
+# C39RV_SpeedRacer_ReferenceCode
+Teacher Reference code
